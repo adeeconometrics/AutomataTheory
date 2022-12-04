@@ -1,2 +1,2 @@
 # AutomataTheory
- routines in automata theory
+- this repo contains routines in automata theory
